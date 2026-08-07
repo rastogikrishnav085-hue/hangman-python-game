@@ -623,3 +623,6 @@ Give a ⭐ if this project helped you learn Python or game development!
 **Last Updated:** November 4, 2025
 
 </div>
+
+## Contributors
+- krishnavrastogi2025
